@@ -1,1 +1,1 @@
-L1VzZXJzL2hhbGlsZG9nYW4vRGVza3RvcC9oZC1kZXYubm9zeW5jL29sdXNoLUFJL29sdXNoLmFpL3BhY2thZ2VzL3RlbXBsYXRlcy9jb21tdW5pdHkvUkVBRE1FLm1k
+## community template by Lapadi
